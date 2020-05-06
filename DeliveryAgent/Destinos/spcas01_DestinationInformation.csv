@@ -1,0 +1,7 @@
+FILETYPE|ORIGIN|MASK|IP|TYPE|USER|PASS|RETRIES|WAIT|DESTINATION
+DR_SMSC|/ium/output/DR_SMSC|*.dat|10.18.53.247|spcabrm1|spcabrm01|-1|5|/dcs/data01/input/producao/gsm/rtc/spcabrm1
+DR_CCN|/ium/output/DR_CCN|*.dat|10.18.53.247|spcabrm1|spcabrm01|-1|5|/dcs/data01/input/producao/gsm/rtc/spcabrm1
+DR_SUBSCRIBER|/ium/output/DR_SUBSCRIBER|*.dat|10.18.53.247|spcabrm1|spcabrm01|-1|5|/dcs/data01/input/producao/gsm/rtc/spcabrm1
+DR_SUBSCRIPTION|/ium/output/DR_SUBSCRIPTION|*.dat|10.18.53.247|spcabrm1|spcabrm01|-1|5|/dcs/data01/input/producao/gsm/rtc/spcabrm1
+CDR|/ium/output/CDR|*.cdr|10.18.53.247|spcabrm1|spcabrm01|-1|5|/dcs/data01/input/producao/gsm/rtc/spcabrm1
+ReportCDR|/ium/output/ReportCDR|*.cdr|10.18.53.247|spcabrm1|spcabrm01|-1|5|/dcs/data01/input/producao/gsm/rtc/spcabrm1
