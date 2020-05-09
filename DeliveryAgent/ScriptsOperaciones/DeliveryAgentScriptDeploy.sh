@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#SCRIPT
 WORKDIR="/home/iumadmin/tmp"
 test -d $WORKDIR || mkdir -p $WORKDIR
 DATESTR=`date +"%Y%m%d%H%M%S"`
